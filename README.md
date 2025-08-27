@@ -14,3 +14,8 @@ Language: Kotlin
 UI: Jetpack Compose  
 Architecture: MVVM (ViewModel + Repository + Hilt for DI)  
 Networking: Retrofit 
+
+ Installation:
+ Clone this repository:
+   ```bash
+   git clone
