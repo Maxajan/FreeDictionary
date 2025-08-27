@@ -10,7 +10,7 @@ Features:
  API-powered (FastAPI backend / Retrofit in Android) 
 
 Tech Stack:
--Language: Kotlin  
--UI: Jetpack Compose  
--Architecture: MVVM (ViewModel + Repository + Hilt for DI)  
--Networking: Retrofit 
+Language: Kotlin  
+UI: Jetpack Compose  
+Architecture: MVVM (ViewModel + Repository + Hilt for DI)  
+Networking: Retrofit 
